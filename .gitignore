@@ -1,0 +1,8 @@
+data/
+checkpoints/
+outputs/*.png
+__pycache__/
+*.pyc
+.idea/
+.venv/
+venv/
